@@ -4,8 +4,15 @@
 # in order to complete the rest of this course and be ready for the next course!
 
 
+def introduction()
+  puts ""
+end
 
+def introduction_with_language
+  
+end
 
+def introduction_with_language_optional
 
 
 
